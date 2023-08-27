@@ -9,7 +9,8 @@
 
 하기 항목들은 공부한 내용을 정리한 것입니다.
 ---
-1. [마이크로서비스 아키텍쳐]()
+1. [마이크로서비스 아키텍쳐](https://github.com/HJC96/SpringBootMSAComponent/blob/main/List/1.%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md)
+---완료 ---
 2. [프레임워크와 스프링 부트]()
 3. [스프링 애플리케이션 기본]()
 4. [스프링 웹 MVC 개요]()
