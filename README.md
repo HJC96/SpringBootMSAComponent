@@ -9,11 +9,10 @@
 
 하기 항목들은 공부한 내용을 정리한 것입니다.
 ---
-1. [마이크로서비스 아키텍쳐](https://github.com/HJC96/SpringBootMSAComponent/blob/main/List/1.%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md)
----완료 ---
-2. [프레임워크와 스프링 부트]()
-3. [스프링 애플리케이션 기본]()
-4. [스프링 웹 MVC 개요]()
+1. [마이크로서비스 아키텍쳐](https://github.com/HJC96/SpringBootMSAComponent/blob/main/List/1.%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md) --- COMPLETE ---
+2. [프레임워크와 스프링 부트]() --- PASS ---
+3. [스프링 애플리케이션 기본](https://github.com/HJC96/SpringBootMSAComponent/blob/main/List/3.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B8%B0%EB%B3%B8.md) --- COMPLETE ---
+4. [스프링 웹 MVC 개요]() --- ~ING ---
 5. [스프링 MVC를 이용한 REST-API 개발]()
 6. [웹 애플리케이션 서버 구축하기]()
 7. [스프링 AOP와 테스트, 자동 설정 원리]()
