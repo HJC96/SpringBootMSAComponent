@@ -13,7 +13,7 @@
 2. [프레임워크와 스프링 부트](https://github.com/HJC96/SpringBootMSAComponent/blob/main/List/2.%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8.md) --- COMPLETED ---
 3. [스프링 애플리케이션 기본](https://github.com/HJC96/SpringBootMSAComponent/blob/main/List/3.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B8%B0%EB%B3%B8.md) --- COMPLETED ---
 4. [스프링 웹 MVC 개요](https://github.com/HJC96/SpringBootMSAComponent/blob/main/List/4.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20MVC%20%EA%B0%9C%EC%9A%94.md) --- COMPLETED ---
-5. [스프링 MVC를 이용한 REST-API 개발]() --- ~ ING ---
+5. [스프링 MVC를 이용한 REST-API 개발](https://github.com/HJC96/SpringBootMSAComponent/blob/main/List/5.%20%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20REST-API%20%EA%B0%9C%EB%B0%9C.md) --- ~ ING ---
 6. [웹 애플리케이션 서버 구축하기]() --- NOT YET ---
 7. [스프링 AOP와 테스트, 자동 설정 원리]() --- NOT YET ---
 8. [데이터 영속성]() --- NOT YET ---
